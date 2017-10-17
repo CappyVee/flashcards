@@ -1,0 +1,11 @@
+li span:last-child {
+  display: none;
+}
+
+.fc:hover {
+  text-decoration: underline;
+}
+.fc {
+  cursor: pointer;
+  color: #0088cc;
+}
